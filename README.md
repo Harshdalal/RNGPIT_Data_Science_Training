@@ -1,8 +1,10 @@
 # RNGPIT_Data_Science_Training
 
-Google Colab :  https://share.google/g6zDWr7cOy6TDPwsZ
-
 Kaggle : https://www.kaggle.com/
+
+UCI ML Repository : https://archive.ics.uci.edu/
+
+Google Colab :  https://share.google/g6zDWr7cOy6TDPwsZ
 
 # Module 1: Data Science Foundations & Industry Context
 
