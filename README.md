@@ -2,6 +2,8 @@
 
 Google Colab :  https://share.google/g6zDWr7cOy6TDPwsZ
 
+Kaggle : https://www.kaggle.com/
+
 # Module 1: Data Science Foundations & Industry Context
 
 Provide a conceptual understanding of Data Science as an interdisciplinary field and how data-driven decision-making works in modern organizations. Participants learn the lifecycle of a Data Science project and understand how business problems translate into analytical workflows.
